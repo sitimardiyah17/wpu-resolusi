@@ -2,3 +2,4 @@ wpu resolusi
 -konsisten untuk membuat konten 
 -membuat platform
 -membuat forum
+-menambahkan merc shop
